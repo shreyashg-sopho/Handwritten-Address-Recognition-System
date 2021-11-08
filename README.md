@@ -8,3 +8,6 @@ machine understandable form. Handwritten Recognition System is a software which 
 form such that it can be stored in the database and can be manipulated by machine whenever required. This involves scanning of the text envelope
 horizontally and vertically to get individual words and then character, extraction of features to form feature vector, and then recognition of
 character using the classifier.
+
+
+Please go through the Reposrt.pdf for in depth details.
